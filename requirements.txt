@@ -1,0 +1,16 @@
+pandas
+psycopg2-binary
+python-dotenv
+apache-airflow-providers-odbc
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-postgres
+openpyxl
+connectorx
+pyarrow
+polars
+minio
+pendulum
+sqlalchemy
+adbc_driver_manager
+adbc-driver-postgresql
+requests
