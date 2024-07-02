@@ -19,7 +19,7 @@ def test_dag():
 
     @task(task_id="test")
     def test():
-        uri = "postgresql://wayu:xTUu28E5@10.121.101.144:5432/dvdrental"
+        uri = ""
         query = "SELECT * FROM actor"
         try:
             df = pl.read_database_uri(query, uri, engine="connectorx")
