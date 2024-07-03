@@ -13,4 +13,5 @@ pendulum
 sqlalchemy
 adbc_driver_manager
 adbc-driver-postgresql
+pyarrow
 requests
